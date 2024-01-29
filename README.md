@@ -7,3 +7,6 @@
 
 ### Offline-3
 # Feed Forward Neural Network 
+
+### Offline-4
+# Dimensionality Reduction by PCA and EM Algorithm Implementation 
